@@ -1,4 +1,4 @@
-# No-reference-image Qulity-for-Hazy-Images-
+# No Reference Quality of Hazy Images  Depending on Transmission Component 
 This is the testing code of our paper "NO REFERENCE QUALITY OF HAZY IMAGES  DEPENDING ON TRANSMISSION COMPONENT 
 ESTIMATION "
  download from https://journals.iium.edu.my/ejournal/index.php/iiumej/issue/download/65/7
